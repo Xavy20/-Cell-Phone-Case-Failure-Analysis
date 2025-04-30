@@ -19,4 +19,4 @@ This project explores operational data from three different machines manufacturi
 - Clusters 1 and 2 had significantly higher failure rates (~46% and 40%), indicating areas for potential process improvement.
 
 ## Author
-Xavier A. Acosta Santiago – Pursuing a Master’s in Data Science
+Xavier A. Acosta Santiago 
